@@ -1,29 +1,79 @@
-# 💼 Tech Stack
+# Hey, I'm Mohammad Anas 👋
 
-<p align="center">
-  <a href="#"><img alt="HTML" src="https://img.icons8.com/color/96/html-5--v1.png" height="60"/></a>
-  <a href="#"><img alt="CSS" src="https://img.icons8.com/color/96/css3.png" height="60"/></a>
-  <a href="#"><img alt="JavaScript" src="https://img.icons8.com/color/96/javascript--v1.png" height="60"/></a>
-  <a href="#"><img alt="Angular" src="https://img.icons8.com/color/96/angularjs.png" height="60"/></a>
-  <a href="#"><img alt="Python" src="https://img.icons8.com/color/96/python--v1.png" height="60"/></a>
-  <a href="#"><img alt="React" src="https://img.icons8.com/color/96/react-native.png" height="60"/></a>
-  <a href="#"><img alt="React Native" src="https://img.icons8.com/ultraviolet/80/react.png" height="60"/></a>
-  <a href="#"><img alt="SQL" src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" height="60"/></a>
-  <a href="#"><img alt="MongoDB" src="https://img.icons8.com/color/96/mongodb.png" height="60"/></a>
-</p>
+I build AI products, developer tools, and backend systems.
+
+Most of my projects start the same way: I run into a problem, get annoyed that a good solution doesn't exist, and decide to build one myself.
+
+Right now, I'm focused on AI agents, local-first applications, developer infrastructure, and products that help people think, build, and work faster.
 
 ---
 
-# 📬 Contact Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-anas-790556236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ansarianas53665@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
-  </a>
-</p>
+### SQL Editor
 
-<p align="center"><b>Let's connect and build something awesome together!</b></p>
+**A lightweight, in-browser SQL playground.**
+
+A fast and intuitive tool for writing, executing, and visualizing SQL queries without the hassle of setting up a local database environment.
+
+🔗 Source: https://github.com/MohammadAnas-07/SQL-editor
+
+---
+
+### Task Flow
+
+**The easiest way to manage team projects and tasks.**
+
+A collaborative task management system with real-time updates, designed to keep teams aligned, productive, and focused on what matters most.
+
+🔗 Product: https://ideal-intuition-production-5f1d.up.railway.app/
+🔗 Source: https://github.com/MohammadAnas-07/team-task-manager
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+* JavaScript & Python
+* React.js
+* Node.js & Express.js
+* Tailwind CSS 
+
+**Databases & DevOps**
+* PostgreSQL + Prisma ORM
+* MongoDB & Redis
+* Docker
+* Git & GitHub
+
+---
+
+## 🎯 What I'm Optimizing For
+
+* Building products people actually use
+* Shipping quickly and learning from real users
+* Clean, maintainable architecture
+* Open-source software
+* Long-term leverage through technology
+
+---
+
+## 📈 Currently Building
+
+* Stack/Projects for real users
+* Scalable projects for real users
+* Security tools for modern AI infrastructure
+* Experimental products that may or may not become startups
+
+---
+
+## 🌐 Find Me Online
+
+LinkedIn: https://www.linkedin.com/in/mohammad-anas-790556236
+
+Portfolio: https://portfolio-1-phi-beryl.vercel.app/
+
+Email: [ansarianas53665@gmail.com](mailto:ansarianas53665@gmail.com)
+
+---
+
+> "Simplicity is the ultimate sophistication."
