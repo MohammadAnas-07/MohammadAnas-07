@@ -1,79 +1,57 @@
-# Hey, I'm Mohammad Anas 👋
-
-I build AI products, developer tools, and backend systems.
-
-Most of my projects start the same way: I run into a problem, get annoyed that a good solution doesn't exist, and decide to build one myself.
-
-Right now, I'm focused on AI agents, local-first applications, developer infrastructure, and products that help people think, build, and work faster.
-
+# Mohammad Anas
+ 
+I build AI products, developer tools, and backend systems. Most of my projects start the same way: I hit a problem, get annoyed that nothing solves it well, and end up building my own version.
+ 
+Right now I'm spending most of my time on AI agents, local-first apps, and developer infrastructure.
+ 
 ---
-
-## 🚀 Featured Projects
-
+ 
+## Projects
+ 
 ### SQL Editor
-
-**A lightweight, in-browser SQL playground.**
-
-A fast and intuitive tool for writing, executing, and visualizing SQL queries without the hassle of setting up a local database environment.
-
-🔗 Source: https://github.com/MohammadAnas-07/SQL-editor
-
----
-
+A lightweight, in-browser SQL playground. Write and run queries without setting up a local database.
+ 
+Source: https://github.com/MohammadAnas-07/SQL-editor
+ 
 ### Task Flow
-
-**The easiest way to manage team projects and tasks.**
-
-A collaborative task management system with real-time updates, designed to keep teams aligned, productive, and focused on what matters most.
-
-🔗 Product: https://ideal-intuition-production-5f1d.up.railway.app/
-🔗 Source: https://github.com/MohammadAnas-07/team-task-manager
-
+A collaborative task manager with real-time updates, built for teams that need to stay in sync.
+ 
+Product: https://ideal-intuition-production-5f1d.up.railway.app/
+Source: https://github.com/MohammadAnas-07/team-task-manager
+ 
 ---
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**
-* JavaScript & Python
-* React.js
-* Node.js & Express.js
-* Tailwind CSS 
-
-**Databases & DevOps**
-* PostgreSQL + Prisma ORM
-* MongoDB & Redis
-* Docker
-* Git & GitHub
-
+ 
+## Stack
+ 
+**Languages & frameworks**
+- JavaScript, Python
+- React.js
+- Node.js, Express.js
+- Tailwind CSS
+**Databases & infra**
+- PostgreSQL with Prisma
+- MongoDB, Redis
+- Docker
+- Git, GitHub
 ---
-
-## 🎯 What I'm Optimizing For
-
-* Building products people actually use
-* Shipping quickly and learning from real users
-* Clean, maintainable architecture
-* Open-source software
-* Long-term leverage through technology
-
+ 
+## How I work
+ 
+- Build things people actually use
+- Ship early, learn from real users, adjust
+- Keep the architecture clean enough that I can still read it in six months
+- Default to open source
 ---
-
-## 📈 Currently Building
-
-* Stack/Projects for real users
-* Scalable projects for real users
-* Security tools for modern AI infrastructure
-* Experimental products that may or may not become startups
-
+ 
+## Currently building
+ 
+- Projects for real users, not just demos
+- Security tooling for AI infrastructure
+- A few experiments that might turn into something, might not
 ---
-
-## 🌐 Find Me Online
-
+ 
+## Elsewhere
+ 
 LinkedIn: https://www.linkedin.com/in/mohammad-anas-790556236
-
 Portfolio: https://portfolio-1-phi-beryl.vercel.app/
-
-Email: [ansarianas53665@gmail.com](mailto:ansarianas53665@gmail.com)
-
----
-
-> "Simplicity is the ultimate sophistication."
+Email: ansarianas53665@gmail.com
