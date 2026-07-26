@@ -16,8 +16,8 @@ Source: https://github.com/MohammadAnas-07/SQL-editor
 ### Task Flow
 A collaborative task manager with real-time updates, built for teams that need to stay in sync.
  
-Product: https://task-flow-omega-cyan.vercel.app/
-Source: https://github.com/MohammadAnas-07/Task-Flow
+- Product: https://task-flow-omega-cyan.vercel.app/
+- Source: https://github.com/MohammadAnas-07/Task-Flow
  
 ---
  
@@ -52,6 +52,6 @@ Source: https://github.com/MohammadAnas-07/Task-Flow
  
 ## Elsewhere
  
-LinkedIn: https://www.linkedin.com/in/mohammad-anas-790556236
-Portfolio: https://portfolio-1-phi-beryl.vercel.app/
-Email: ansarianas53665@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammad-anas-790556236
+- Portfolio: https://portfolio-1-phi-beryl.vercel.app/
+- Email: ansarianas53665@gmail.com
